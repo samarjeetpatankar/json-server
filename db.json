@@ -1,0 +1,46 @@
+{
+  "products": [
+    
+    {
+      "productName": "",
+      "productDescription": "",
+      "gender": "",
+      "category": "",
+      "price": "",
+      "id": 3
+    },
+    {
+      "productName": "Product A",
+      "productDescription": "This is Product A description",
+      "gender": "Male",
+      "category": "Shirts",
+      "price": 25.99,
+      "id": 3
+    },
+    {
+      "productName": "Product B",
+      "productDescription": "This is Product B description",
+      "gender": "Female",
+      "category": "Dresses",
+      "price": 35.99,
+      "id": 4
+    },
+    {
+      "productName": "Product C",
+      "productDescription": "This is Product C description",
+      "gender": "Male",
+      "category": "Pants",
+      "price": 29.99,
+      "id": 5
+    },
+    {
+      "productName": "Product D",
+      "productDescription": "This is Product D description",
+      "gender": "Female",
+      "category": "Tops",
+      "price": 18.99,
+      "id": 6
+    }
+    
+  ]
+}
